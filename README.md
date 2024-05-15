@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>boas vindas no meu perfil 😎👍👍</h1>
+<br>
+<p>me chamo eduarda sales</p>
+<p>estou estudando na alura</p>
+<p>estou me desenvolvendo em linguagem javascript</p>
+<p>ultilizo esse espaço para ultilizar meus projetos</p>
+<p>voce pode entrar em contrato comigo</p>
+<hr>
+dudasalesolive@gmail.com
+<br>
 
-<!--
-**dudamototo/dudamototo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.pinimg.com/originals/0c/77/b1/0c77b17836644990398a2066dae7ace9.gif)
